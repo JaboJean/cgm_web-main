@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^dashboard$ dashboard.php [L]
+RewriteRule ^events$ events.php [L]
+RewriteRule ^users$ users.php [L]
